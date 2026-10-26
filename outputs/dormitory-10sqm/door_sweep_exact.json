@@ -1,0 +1,22 @@
+{
+  "pass": true,
+  "method": "Analytic extrema over every angle 0..90 degrees, applied to the bounding-box corners of the actual leaf and both handles; conservative enclosure of beveled meshes.",
+  "swept_bounds_xy": [
+    -0.07700005173683167,
+    0.7230000197887421,
+    0.900179958151014,
+    1.700179970071943
+  ],
+  "clipped_to_room": [
+    0,
+    0.7230000197887421,
+    0.900179958151014,
+    1.700179970071943
+  ],
+  "reserved_bounds_xy": [
+    0,
+    0.72,
+    0.91,
+    1.71
+  ]
+}

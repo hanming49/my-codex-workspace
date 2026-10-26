@@ -1,0 +1,310 @@
+{
+  "pass": true,
+  "method": "Measured Blender object bounds; conservative continuous 90-degree door-sweep enclosure, including handle; clear 0.60 m aisle at door fully open and seats in shown positions.",
+  "checks": [
+    {
+      "name": "Bed_1_inside_walls",
+      "pass_check": true,
+      "detail": [
+        1.9499999284744263,
+        0.050000011920928955,
+        3.950000047683716,
+        0.949999988079071
+      ]
+    },
+    {
+      "name": "Bed_1_aisle_clear",
+      "pass_check": true,
+      "detail": [
+        1.9499999284744263,
+        0.050000011920928955,
+        3.950000047683716,
+        0.949999988079071
+      ]
+    },
+    {
+      "name": "Bed_1_door_sweep_clear",
+      "pass_check": true,
+      "detail": [
+        1.9499999284744263,
+        0.050000011920928955,
+        3.950000047683716,
+        0.949999988079071
+      ]
+    },
+    {
+      "name": "Bed_1_size",
+      "pass_check": true,
+      "detail": [
+        2.0000001192092896,
+        0.8999999761581421
+      ]
+    },
+    {
+      "name": "Bed_2_inside_walls",
+      "pass_check": true,
+      "detail": [
+        1.9499999284744263,
+        1.5499999523162842,
+        3.950000047683716,
+        2.450000047683716
+      ]
+    },
+    {
+      "name": "Bed_2_aisle_clear",
+      "pass_check": true,
+      "detail": [
+        1.9499999284744263,
+        1.5499999523162842,
+        3.950000047683716,
+        2.450000047683716
+      ]
+    },
+    {
+      "name": "Bed_2_door_sweep_clear",
+      "pass_check": true,
+      "detail": [
+        1.9499999284744263,
+        1.5499999523162842,
+        3.950000047683716,
+        2.450000047683716
+      ]
+    },
+    {
+      "name": "Bed_2_size",
+      "pass_check": true,
+      "detail": [
+        2.0000001192092896,
+        0.9000000953674316
+      ]
+    },
+    {
+      "name": "Desk_1_inside_walls",
+      "pass_check": true,
+      "detail": [
+        0.949999988079071,
+        0.050000011920928955,
+        1.8499999046325684,
+        0.550000011920929
+      ]
+    },
+    {
+      "name": "Desk_1_aisle_clear",
+      "pass_check": true,
+      "detail": [
+        0.949999988079071,
+        0.050000011920928955,
+        1.8499999046325684,
+        0.550000011920929
+      ]
+    },
+    {
+      "name": "Desk_1_door_sweep_clear",
+      "pass_check": true,
+      "detail": [
+        0.949999988079071,
+        0.050000011920928955,
+        1.8499999046325684,
+        0.550000011920929
+      ]
+    },
+    {
+      "name": "Seat_1_inside_walls",
+      "pass_check": true,
+      "detail": [
+        1.1999999284744263,
+        0.48000001907348633,
+        1.600000023841858,
+        0.8799999952316284
+      ]
+    },
+    {
+      "name": "Seat_1_aisle_clear",
+      "pass_check": true,
+      "detail": [
+        1.1999999284744263,
+        0.48000001907348633,
+        1.600000023841858,
+        0.8799999952316284
+      ]
+    },
+    {
+      "name": "Seat_1_door_sweep_clear",
+      "pass_check": true,
+      "detail": [
+        1.1999999284744263,
+        0.48000001907348633,
+        1.600000023841858,
+        0.8799999952316284
+      ]
+    },
+    {
+      "name": "Wardrobe_1_inside_walls",
+      "pass_check": true,
+      "detail": [
+        0.050000011920928955,
+        0.04999998211860657,
+        0.699999988079071,
+        0.6439999938011169
+      ]
+    },
+    {
+      "name": "Wardrobe_1_aisle_clear",
+      "pass_check": true,
+      "detail": [
+        0.050000011920928955,
+        0.04999998211860657,
+        0.699999988079071,
+        0.6439999938011169
+      ]
+    },
+    {
+      "name": "Wardrobe_1_door_sweep_clear",
+      "pass_check": true,
+      "detail": [
+        0.050000011920928955,
+        0.04999998211860657,
+        0.699999988079071,
+        0.6439999938011169
+      ]
+    },
+    {
+      "name": "Desk_2_inside_walls",
+      "pass_check": true,
+      "detail": [
+        0.949999988079071,
+        1.9500000476837158,
+        1.8499999046325684,
+        2.450000047683716
+      ]
+    },
+    {
+      "name": "Desk_2_aisle_clear",
+      "pass_check": true,
+      "detail": [
+        0.949999988079071,
+        1.9500000476837158,
+        1.8499999046325684,
+        2.450000047683716
+      ]
+    },
+    {
+      "name": "Desk_2_door_sweep_clear",
+      "pass_check": true,
+      "detail": [
+        0.949999988079071,
+        1.9500000476837158,
+        1.8499999046325684,
+        2.450000047683716
+      ]
+    },
+    {
+      "name": "Seat_2_inside_walls",
+      "pass_check": true,
+      "detail": [
+        1.1999999284744263,
+        1.6200000047683716,
+        1.600000023841858,
+        2.0199999809265137
+      ]
+    },
+    {
+      "name": "Seat_2_aisle_clear",
+      "pass_check": true,
+      "detail": [
+        1.1999999284744263,
+        1.6200000047683716,
+        1.600000023841858,
+        2.0199999809265137
+      ]
+    },
+    {
+      "name": "Seat_2_door_sweep_clear",
+      "pass_check": true,
+      "detail": [
+        1.1999999284744263,
+        1.6200000047683716,
+        1.600000023841858,
+        2.0199999809265137
+      ]
+    },
+    {
+      "name": "Wardrobe_2_inside_walls",
+      "pass_check": true,
+      "detail": [
+        0.050000011920928955,
+        1.8560000658035278,
+        0.699999988079071,
+        2.450000047683716
+      ]
+    },
+    {
+      "name": "Wardrobe_2_aisle_clear",
+      "pass_check": true,
+      "detail": [
+        0.050000011920928955,
+        1.8560000658035278,
+        0.699999988079071,
+        2.450000047683716
+      ]
+    },
+    {
+      "name": "Wardrobe_2_door_sweep_clear",
+      "pass_check": true,
+      "detail": [
+        0.050000011920928955,
+        1.8560000658035278,
+        0.699999988079071,
+        2.450000047683716
+      ]
+    },
+    {
+      "name": "Bed_1_Desk_1_no_overlap",
+      "pass_check": true,
+      "detail": "Separate plan footprints"
+    },
+    {
+      "name": "Bed_1_Desk_2_no_overlap",
+      "pass_check": true,
+      "detail": "Separate plan footprints"
+    },
+    {
+      "name": "Bed_2_Desk_1_no_overlap",
+      "pass_check": true,
+      "detail": "Separate plan footprints"
+    },
+    {
+      "name": "Bed_2_Desk_2_no_overlap",
+      "pass_check": true,
+      "detail": "Separate plan footprints"
+    },
+    {
+      "name": "Main_aisle_width",
+      "pass_check": true,
+      "detail": 0.6
+    },
+    {
+      "name": "Window_clear_of_wardrobes",
+      "pass_check": true,
+      "detail": "Window y=0.65..1.85; wardrobes outside this interval"
+    },
+    {
+      "name": "Door_open90_clear_width",
+      "pass_check": true,
+      "detail": 0.907
+    }
+  ],
+  "door_sweep_aabb": [
+    0,
+    0.72,
+    0.91,
+    1.71
+  ],
+  "door_leaf_m": 0.9,
+  "open90_clear_width_m": 0.907,
+  "minimum_reserved_clearance_to_door_sweep_m": 0.04,
+  "aisle_m": 0.6,
+  "area_m2": 10,
+  "ceiling_m": 2.8,
+  "seat_note": "Seats overlap desks in plan only: seats top 0.46 m, desktop underside 0.70 m, drawer underside 0.58 m; desk legs outside seat footprint."
+}
