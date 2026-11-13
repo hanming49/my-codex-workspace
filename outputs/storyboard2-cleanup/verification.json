@@ -1,0 +1,12 @@
+{
+  "original": {
+    "frames": 300,
+    "red_pixels_in_target_region": 29115,
+    "max_per_frame": 420
+  },
+  "cleaned": {
+    "frames": 300,
+    "red_pixels_in_target_region": 0,
+    "max_per_frame": 0
+  }
+}
